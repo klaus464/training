@@ -9,3 +9,5 @@ contains training problems' solution(s)
 - [Contest - 02](contest-02/README.md)
 
 - [Contest - 03](contest-03/README.md)
+
+- [Contest - 04](contest-04/README.md)
