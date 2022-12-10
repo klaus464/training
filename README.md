@@ -13,3 +13,5 @@ contains training problems' solution(s)
 - [Contest - 04](contest-04/README.md)
 
 - [Contest - 05](contest-05/README.md)
+
+- [Contest - 06](contest-06/README.md)
